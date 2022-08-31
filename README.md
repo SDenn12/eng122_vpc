@@ -1,6 +1,6 @@
 # Virtual Private Cloud
 
-![image](https://user-images.githubusercontent.com/110126036/187456964-a0f792dd-aae3-4182-a79d-9d9b435566d4.png)
+![image](https://user-images.githubusercontent.com/110126036/187666646-596243dd-2fab-4e3b-a73f-b3ae15489858.png)
 
 ## What is a VPC?
 
