@@ -42,6 +42,8 @@ A main route table is the same as a custom route table except that the direct co
 
 NACL works as a firewall on the subnet level whereas security groups work as a firewall on the instance level.
 
+NACL allows for deny methods as well as allow methods (which sec groups allow).
+
 NACL stands for: Network Access Control List
 
 ## Stateless vs Stateful
