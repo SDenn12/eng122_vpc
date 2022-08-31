@@ -35,3 +35,17 @@ A custom route table is associated with the public subnet. It allows for the com
 ### Main Route Table
 
 A main route table is the same as a custom route table except that the direct communication to the internet is prohibited and are also for private subnets. The internet can be reached indirectly through a NAT gateway.
+
+## Security
+
+### NACL vs Security Groups
+
+NACL works as a firewall on the subnet level whereas security groups work as a firewall on the instance level.
+
+NACL stands for: Network Access Control List
+
+## Stateless vs Stateful
+
+Stateless applications dont store data whereas stateful applications require backing storage.
+
+![image](https://user-images.githubusercontent.com/110126036/187658061-e8959dd7-19c2-4ce3-a62a-7b0671d9d950.png)
